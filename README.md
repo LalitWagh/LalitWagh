@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LalitWagh
+- 👀 I’m interested in Machine learning, Deep learning and building startup.
+- 🌱 I’m currently learning basic tools like tableau, SAS, Keras, Scikit-Learn. 
+- 💞️ I’m looking to collaborate on AI/ML/DL projects.
+- 📫 Reach me at ilalitwagh@gmail.com
