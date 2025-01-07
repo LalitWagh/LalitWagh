@@ -17,3 +17,5 @@
 - 🔍 I'm now seeking full-time software engineering roles in the UK where I can apply my passion for AI to impact real-world problems.
             
 - 📫 Reach out to me at ilalitwagh@gmail.com to connect!
+
+- https://lalitwagh.github.io/Adapting-language-models-to-new-topics/
